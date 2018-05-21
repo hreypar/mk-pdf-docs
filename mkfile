@@ -11,6 +11,5 @@ results/%.pdf:	data/%.md
 		--latex-engine=xelatex \
 		--toc \
 		--include-in-header $TITLE \
-		-o $target'.build' \
-	&& mv "$target"'.build' "$target"
+		-o $target
 
