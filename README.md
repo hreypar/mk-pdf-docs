@@ -1,6 +1,6 @@
-# Title of the module. #
+# mk-pdf-docs. #
 
-Brief description of the module's goals.
+This module converts markdown files to LaTeX PDF (separately or as a single document) using Pandoc. 
 
 
 ## What this module does. ##
