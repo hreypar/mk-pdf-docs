@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/sh
+
 find -L data \
 	-type f \
 	-name '*md' \
