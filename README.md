@@ -13,6 +13,10 @@ Bulleted list that points out each task performed by the module.
 
 ## Input. ##
 
+Your markdown document, dah.
+
+Within you markdown document, images must be referenced using the `visuals/image-file` address (e.g. `visuals/funny-pic.jpg`).
+
 List and describe the input files of this module. Add perinent considereations.
 
 **Format of files.**
@@ -28,6 +32,8 @@ List and describe output files and their relationship to input files.
 
 
 ## Usage. ##
+
+Create a symlink to your (unique) images directory in this module (i.e. `ln -s /your/directory/ images`)
 
 How to set up the module to perform an analysis (where to place input data, commands used to run the module).
 
