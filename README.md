@@ -85,24 +85,7 @@ List the references consulted by this README file.
 
 
 
-## Tree (file structure of this module). ##
+### Author ###
 
-.
-├── bin
-│   └── create-targets
-├── config.mk
-├── mkfile
-├── qc
-│   ├── data
-│   │   ├── after -> ../../results
-│   │   └── before -> ../../data
-│   └── mkfile
-└── README.md
-
-3 directories, 8 files
-
-
-### Author. ###
-
-- [author name](email)
+- [HRG](hreypar@gmail.com)
 
